@@ -15,4 +15,6 @@ Force Challenge : .py and .exe available.
 The Force Challenge app is designed for DSR, and only works in DSR (AFAIK).
 Simply follow the instructions in the window, by entering the information requested. 
 It does give you 10 seconds after you have selected your options to change the active window back to DSR.
-Works on Windows and with fullscreen or windowed DSR.
+Once the app is running, it will force your character to do a gesture, use an item [hotbar], or 
+reset the camera/lock-on, or all three at different intervals [your choice].
+Works on Windows (not sure about mac) and with fullscreen or windowed DSR.
