@@ -1,4 +1,4 @@
-#Name : DS3 Challenge Run Generator 
+#Name : DSR Force Challenge [App] 
 #Original Author : mranaglyph (interdim_designs)
 #Date : 6/26/2021
 
