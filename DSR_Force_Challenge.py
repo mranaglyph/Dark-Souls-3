@@ -1,3 +1,7 @@
+#Name : DS3 Challenge Run Generator 
+#Original Author : mranaglyph (interdim_designs)
+#Date : 6/26/2021
+
 import time, random, keyboard
 
 def forceGesture():
