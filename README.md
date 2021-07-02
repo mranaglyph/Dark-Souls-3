@@ -1,6 +1,6 @@
 # Souls-Series
 # Original Author : mranaglyph (interdim_designs)
-# Date : 6/26/2021
+# Date : 6/26/2021 [Update : 7/2/2021]
 
 Scripts for all the Souls Games [That I Can Make]
 
@@ -18,3 +18,10 @@ It does give you 10 seconds after you have selected your options to change the a
 Once the app is running, it will force your character to do a gesture, use an item [hotbar], or 
 reset the camera/lock-on, or all three at different intervals [your choice].
 Works on Windows (not sure about mac) and with fullscreen or windowed DSR.
+
+Update:
+Force Challenge for DS3 now Available!
+This will only work on Windows machines (AFAIK). It is mostly the same as the DSR Force Challenge, 
+except some/most of the timings have been changed. Additionally, there is a random shuffle 
+added to the Force Gesture option, so a different gesture is used almost everytime.
+Works in windowed or fullscreen DS3.
