@@ -1,3 +1,7 @@
+# Name : Dark Souls 3 : Challenge Run Generator 2
+# Original Author : mranaglyph (interdim_designs)
+# Date : 9/29/2022
+
 ####################################################################
 #Imports
 ####################################################################
